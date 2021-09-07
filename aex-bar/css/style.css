@@ -1,0 +1,47 @@
+.nicesexytext {
+  font-family: system-ui;
+  font-weight:3;
+  font-size:15px;
+  letter-spacing:0.1em;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  color:white;
+  width:70%;
+  opacity:0.8;
+  margin-top:-8%;
+}
+
+.divwrap {
+    display:none;
+  margin-left:auto;
+  margin-right:auto;
+  width:15%;
+  height:2.5%;
+  margin-top:50%;
+  color:white;
+  background:rgba(22,22,22,0.35);
+  border: 2px solid rgb(255, 255, 255);
+}
+.progress {
+  width: 100%;
+  height: 100%;
+}
+
+.progress-wrap {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#progress-bar {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background:rgba(45, 152, 218);
+  left: 0;
+  position: absolute;
+
+  top: 0;
+  width:5%;
+}
