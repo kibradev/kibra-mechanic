@@ -1,9 +1,11 @@
 # kibra-mechanic
-FiveM Mechanic Job
+FiveM Mechanic Job V1
+
+It is a different version independent of the version that is on sale on [tebex.io](https://0resmon.tebex.io/package/5397990). Simple features were handled and compiled.
 
 ## Requirements
 * You need to install these plugins.
-  * [ESX Society](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_society)
+  * [ESX Society](https://0resmon.tebex.io/package/5397990)
   * [ESX Addoninventory](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_addoninventory)
   * [ESX Addonaccount](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_addonaccount)
   
@@ -12,4 +14,4 @@ FiveM Mechanic Job
   
 Not: With QB-INVENTORY (ESX)
 
-My Discord: http://dc.emirkibar.com/
+My Discord: discord.gg/0resmon
